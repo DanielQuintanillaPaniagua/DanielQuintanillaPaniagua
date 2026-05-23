@@ -24,7 +24,8 @@
 
 - Bash  
 - Linux  
-- Git & GitHub  
+- Git & GitHub
+- android studio java
 
 ---
 
@@ -32,6 +33,11 @@
 
 🐦 **Muninn Huginn OSINT**  
 Lightweight reconnaissance framework inspired by Norse intelligence mythology.
+
+📚 **EduTrack **
+EduTrack — University Attendance Tracking
+
+Android application for attendance tracking using QR codes, developed with Java, SQLite, and Firebase.
 
 ---
 

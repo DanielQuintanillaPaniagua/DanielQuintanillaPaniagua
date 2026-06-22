@@ -34,7 +34,6 @@ $ cat /etc/profile.d/daniel.conf
 **Languages & Runtimes**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -112,11 +111,10 @@ App Android de control de asistencia universitaria con QR codes.
 Framework de reconocimiento OSINT inspirado en la mitología nórdica.
 
 - 🔍 Reconocimiento ligero y modular
-- 🐚 Bash + Python
+- 🐚 Bash scripting
 - 🛡️ Para investigación de seguridad
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
 </td>
 <td width="50%">

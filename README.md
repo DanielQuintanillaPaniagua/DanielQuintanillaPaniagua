@@ -1,101 +1,72 @@
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,30:0d0d0d,70:00ff41,100:000000&height=250&section=header&text=%3E_%20Daniel%20Quintanilla&fontSize=42&fontColor=00ff41&desc=%5B%20systems%20engineer%20%7C%20security%20%7C%20bitcoin%20%7C%20el%20salvador%20%5D&descSize=16&descAlignY=78&animation=twinkling"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff41,100:0a0a0a&height=220&section=header&text=Daniel%20Quintanilla&fontSize=45&fontColor=00ff41&desc=Systems%20Engineer%20%7C%20Cybersecurity%20%7C%20Bitcoin%20Dev&descSize=18&descAlignY=75&animation=fadeIn"/>
 </p>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=22&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=700&lines=root%40cybernode%3A~%23+whoami;%3E+Daniel+Quintanilla+Paniagua+--+El+Salvador+%F0%9F%87%B8%F0%9F%87%BB;root%40cybernode%3A~%23+cat+mission.txt;%3E+break+things+%7C+fix+things+%7C+build+things+that+matter;root%40cybernode%3A~%23+echo+%24VALUES;%3E+open+source+%7C+privacy+%7C+decentralization+%7C+%E2%9A%A1+bitcoin" alt="Typing SVG" />
-</p>
+<h1 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Share+Tech+Mono&size=28&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&width=600&lines=⚡+Cyber+Intelligence+%26+Engineering;🛡️+Security+%7C+Networks+%7C+Bitcoin;🇸🇻+Built+in+El+Salvador" alt="Typing SVG" />
+</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DanielQuintanillaPaniagua&color=00ff41&style=flat-square&label=eyes+on+this+profile"/>
+  <img src="https://komarev.com/ghpvc/?username=DanielQuintanillaPaniagua&color=00ff41&style=flat-square&label=PROFILE+VIEWS"/>
 </p>
 
 ---
 
-```
-██████╗ ██╗   ██╗███╗   ██╗██╗  ██╗    ███╗   ██╗ ██████╗ ████████╗
-██╔══██╗██║   ██║████╗  ██║██║ ██╔╝    ████╗  ██║██╔═══██╗╚══██╔══╝
-██████╔╝██║   ██║██╔██╗ ██║█████╔╝     ██╔██╗ ██║██║   ██║   ██║   
-██╔═══╝ ██║   ██║██║╚██╗██║██╔═██╗     ██║╚██╗██║██║   ██║   ██║   
-██║     ╚██████╔╝██║ ╚████║██║  ██╗    ██║ ╚████║╚██████╔╝   ██║   
-╚═╝      ╚═════╝ ╚═╝  ╚═══╝╚═╝  ╚═╝   ╚═╝  ╚═══╝ ╚═════╝    ╚═╝   
-                                                   trust the code, not the corp
-```
-
----
-
-## `$ cat /etc/motd`
+## 🧠 About Me
 
 ```bash
-  ┌─────────────────────────────────────────────────────────┐
-  │                                                         │
-  │   🎓  Systems & Network Engineering @ UGB              │
-  │   🛡️  Cybersecurity · OSINT · Threat Intel             │
-  │   ⚡  Bitcoin developer — self-custody, no middlemen   │
-  │   🐧  Linux first. Always.                             │
-  │   🇸🇻  Building from El Salvador for the world        │
-  │                                                         │
-  │   "Don't trust. Verify."                               │
-  │                                                         │
-  └─────────────────────────────────────────────────────────┘
+$ whoami
+> Daniel Quintanilla Paniagua — El Salvador 🇸🇻
+
+$ cat /etc/profile.d/daniel.conf
+  🎓 Systems & Network Engineering Student @ UGB
+  💻 Cybersecurity · OSINT · Bitcoin · Android Dev
+  ⚡ Building open-source tools for the cypherpunk stack
+  🚀 Goal: Remote international role in security/cloud/networking
 ```
 
 ---
 
-## `$ cat stack.conf`
-
-```
-# ── LANGUAGES ──────────────────────────────────────────
-LANG_PRIMARY="Java"
-LANG_SCRIPTS="Bash"
-LANG_WEB="JavaScript"
-
-# ── MOBILE & BACKEND ───────────────────────────────────
-MOBILE="Android (Java · minSdk 26)"
-BACKEND="Firebase · Node.js · Docker"
-DB="SQLite · Firestore · PostgreSQL"
-
-# ── SECURITY TOOLS ─────────────────────────────────────
-OS="Kali Linux · EndeavourOS (BlackArch overlay)"
-NETWORK="Wireshark · Nmap · Cisco Packet Tracer"
-CERTS="Platzi: Python · Linux · Forense · Malware · Redes"
-
-# ── BITCOIN STACK ──────────────────────────────────────
-BTC="Bitcoin Core (regtest) · BTCPay Server · NBXplorer"
-LN="Lightning Network (LND — WIP)"
-
-# ── INFRA ──────────────────────────────────────────────
-CLOUD="AWS (free tier · IAM · billing alerts)"
-VCS="Git · GitHub"
-```
+## ⚙️ Tech Stack
 
 <p align="center">
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Kali](https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white)
-![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![BTCPay](https://img.shields.io/badge/BTCPay-51b13e?style=flat-square&logo=btcpayserver&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+**Languages & Runtimes**
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+**Mobile & Backend**
+
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+**Security & Networking**
+
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+
+**Bitcoin Stack**
+
+![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)
+![BTCPay Server](https://img.shields.io/badge/BTCPay_Server-51b13e?style=for-the-badge&logo=btcpayserver&logoColor=white)
+
+**Tools**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
 </p>
 
 ---
 
-## `$ ls -la projects/`
-
-```
-drwxr-xr-x  cyberpos-app/          ← Bitcoin POS · GPL v3 · El Salvador
-drwxr-xr-x  edutrack-android/      ← QR attendance · Firebase · Java
-drwxr-xr-x  muninn_huginn_Osint/   ← OSINT tool · Bash · Norse mythology
-drwxr-xr-x  ???/                   ← [CLASSIFIED] watch this space
-```
+## 🚀 Featured Projects
 
 <table>
 <tr>
@@ -103,19 +74,15 @@ drwxr-xr-x  ???/                   ← [CLASSIFIED] watch this space
 
 ### ⚡ [CyberPOS](https://github.com/DanielQuintanillaPaniagua/cyberpos-app)
 
-```
-STATUS: v1.0.0-beta ██████████ STABLE
-NETWORK: Bitcoin on-chain + Lightning (WIP)
-LICENSE: GPL v3 — audit the code, not the corp
-```
+Bitcoin POS app para pequeños negocios en El Salvador. Open source, self-custodial, cypherpunk.
 
-POS app Bitcoin para negocios en El Salvador. Self-custodial. Sin intermediarios. Sin KYC.
-
-`not your keys, not your coins`
+- 🔗 BTCPay Server API (on-chain + Lightning)
+- 🔥 Firebase Auth + Firestore
+- 🌍 6 idiomas, multirol (comerciante/cliente)
+- 🛡️ GPL v3 — código auditable
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Bitcoin](https://img.shields.io/badge/Bitcoin-F7931A?style=flat-square&logo=bitcoin&logoColor=white)
-![BTCPay](https://img.shields.io/badge/BTCPay-51b13e?style=flat-square&logo=btcpayserver&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
 
 </td>
@@ -123,13 +90,12 @@ POS app Bitcoin para negocios en El Salvador. Self-custodial. Sin intermediarios
 
 ### 📚 [EduTrack](https://github.com/DanielQuintanillaPaniagua/edutrack-android)
 
-```
-STATUS: COMPLETE ██████████
-STACK: Java · SQLite · Firebase · ZXing
-ROLES: teacher / student · biometric auth
-```
+App Android de control de asistencia universitaria con QR codes.
 
-Control de asistencia universitaria con QR. Funciona offline. Open source.
+- 📷 ZXing QR scanning
+- 📊 MPAndroidChart para estadísticas
+- 🔐 Firebase Auth + biometría
+- 👨‍🏫 Roles: docente / estudiante
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
@@ -140,32 +106,22 @@ Control de asistencia universitaria con QR. Funciona offline. Open source.
 <tr>
 <td width="50%">
 
-### 🪶 [Muninn Huginn OSINT](https://github.com/DanielQuintanillaPaniagua/muninn_huginn_Osint)
+### 🐦 Muninn Huginn OSINT
 
-```
-STATUS: ACTIVE ████████░░
-TYPE: username recon · 10+ platforms
-LANG: Bash — zero deps, pure unix
-```
+Framework de reconocimiento OSINT inspirado en la mitología nórdica.
 
-OSINT tool inspirado en los cuervos de Odín. Viajan por el mundo recolectando información.
-
-`huginn (thought) · muninn (memory)`
+- 🔍 Reconocimiento ligero y modular
+- 🐚 Bash scripting
+- 🛡️ Para investigación de seguridad
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
 
 </td>
 <td width="50%">
 
-### 🔴 [NEXT]
+### 🔧 Próximamente...
 
-```
-STATUS: ░░░░░░░░░░ LOADING...
-CLEARANCE: classified
-ETA: unknown
-```
-
-Siempre construyendo algo en el cruce entre seguridad, Bitcoin y código libre.
+Siempre construyendo algo nuevo en el cruce entre seguridad, Bitcoin y código libre.
 
 `watch this space`
 
@@ -175,75 +131,59 @@ Siempre construyendo algo en el cruce entre seguridad, Bitcoin y código libre.
 
 ---
 
-## `$ tail -f learning.log`
+## 📡 Currently Learning
 
-```log
-[██████████░░░░░░░░░░]  60%  Offensive Security fundamentals
-[████████░░░░░░░░░░░░]  40%  Linux system administration
-[██████░░░░░░░░░░░░░░]  30%  Cloud Security (AWS)
-[████░░░░░░░░░░░░░░░░]  20%  Lightning Network (LND)
-[██░░░░░░░░░░░░░░░░░░]  10%  Rust
-
-[ INFO ] currently_reading: "The Cypherpunk Manifesto" · Eric Hughes, 1993
-[ INFO ] next_cert: eJPT / CEH
-[ INFO ] node_status: Bitcoin Core regtest · synced ✓
+```
+[██████████░░░░░░░░░░] Offensive Security fundamentals
+[████████░░░░░░░░░░░░] Linux system administration
+[██████░░░░░░░░░░░░░░] Cloud Security (AWS)
+[████░░░░░░░░░░░░░░░░] Lightning Network (LND)
+[██░░░░░░░░░░░░░░░░░░] Rust
 ```
 
 ---
 
-## `$ cat stats.sh | bash`
+## 📊 GitHub Stats
 
 <p align="center">
-  <img height="155" src="https://github-readme-stats.vercel.app/api?username=DanielQuintanillaPaniagua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&icon_color=00ff41&text_color=aaaaaa&ring_color=00ff41"/>
-  <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielQuintanillaPaniagua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d0d0d&title_color=00ff41&text_color=aaaaaa"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api?username=DanielQuintanillaPaniagua&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&icon_color=00ff41&text_color=ffffff"/>
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielQuintanillaPaniagua&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0a0a0a&title_color=00ff41&text_color=ffffff"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQuintanillaPaniagua&theme=dark&background=0d0d0d&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=aaaaaa&dates=555555&hide_border=true"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DanielQuintanillaPaniagua&theme=dark&background=0a0a0a&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&hide_border=true"/>
 </p>
 
 ---
 
-## `$ ping contact`
+## 📫 Contact
 
 <p align="center">
   <a href="mailto:danielquintanillapaniagua@gmail.com">
-    <img src="https://img.shields.io/badge/email-danielquintanillapaniagua%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</p>
-<p align="center">
   <a href="https://www.linkedin.com/in/daniel-quintanilla-36b66a364/">
-    <img src="https://img.shields.io/badge/linkedin-daniel--quintanilla-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="https://github.com/DanielQuintanillaPaniagua">
-    <img src="https://img.shields.io/badge/github-DanielQuintanillaPaniagua-100000?style=for-the-badge&logo=github&logoColor=white"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
-## `$ cat manifesto.txt`
+## 🌎 Career Goal
 
 ```
-Privacy is not a crime.
-Open source is not a threat.
-Self-custody is not optional.
-Decentralization is the point.
+Objetivo: rol remoto internacional en seguridad ofensiva,
+          ingeniería de redes o cloud security.
 
-The codebase is the contract.
-The keys are the power.
-The network is the state.
-
-Building from El Salvador 🇸🇻
-one commit at a time.
-
-> not your keys, not your coins ⚡
-> don't trust — verify
-> run the code
+Valores:  código abierto · privacidad · descentralización
+          not your keys, not your coins ⚡
 ```
 
 ---
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:00ff41,100:000000&height=120&section=footer&text=%3E_%20EOF&fontSize=20&fontColor=00ff41"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0a0a0a,50:00ff41,100:0a0a0a&height=120&section=footer"/>
 </p>

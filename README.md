@@ -34,6 +34,7 @@ $ cat /etc/profile.d/daniel.conf
 **Languages & Runtimes**
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=orange)
 ![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnu-bash&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 
@@ -106,7 +107,7 @@ App Android de control de asistencia universitaria con QR codes.
 <tr>
 <td width="50%">
 
-### 🐦 Muninn Huginn OSINT
+### 🐦 [Muninn Huginn OSINT](https://github.com/DanielQuintanillaPaniagua/muninn_huginn_Osint)
 
 Framework de reconocimiento OSINT inspirado en la mitología nórdica.
 
@@ -115,6 +116,8 @@ Framework de reconocimiento OSINT inspirado en la mitología nórdica.
 - 🛡️ Para investigación de seguridad
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+
+</td>
 <td width="50%">
 
 ### ⛰️ [Erebor Vault](https://github.com/DanielQuintanillaPaniagua/erebor-vault)
@@ -131,18 +134,6 @@ Gestor de contraseñas local en CLI. Sin nube, sin telemetría, solo tú y la mo
 
 </td>
 </tr>
-</td>
-<td width="50%">
-
-
-### 🔧 Próximamente...
-
-Siempre construyendo algo nuevo en el cruce entre seguridad, Bitcoin y código libre.
-
-`watch this space`
-
-</td>
-</tr>
 </table>
 
 ---
@@ -154,7 +145,7 @@ Siempre construyendo algo nuevo en el cruce entre seguridad, Bitcoin y código l
 [████████░░░░░░░░░░░░] Linux system administration
 [██████░░░░░░░░░░░░░░] Cloud Security (AWS)
 [████░░░░░░░░░░░░░░░░] Lightning Network (LND)
-[██░░░░░░░░░░░░░░░░░░] Rust
+[████░░░░░░░░░░░░░░░░] Rust (building Erebor Vault)
 ```
 
 ---

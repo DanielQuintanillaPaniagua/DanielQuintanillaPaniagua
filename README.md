@@ -115,9 +115,25 @@ Framework de reconocimiento OSINT inspirado en la mitología nórdica.
 - 🛡️ Para investigación de seguridad
 
 ![Bash](https://img.shields.io/badge/Bash-121011?style=flat-square&logo=gnu-bash&logoColor=white)
+<td width="50%">
+
+### ⛰️ [Erebor Vault](https://github.com/DanielQuintanillaPaniagua/erebor-vault)
+
+Gestor de contraseñas local en CLI. Sin nube, sin telemetría, solo tú y la montaña.
+
+- 🔐 Argon2id + ChaCha20-Poly1305
+- 🗝️ Master password + keyfile
+- ⛰️ 100% offline, zero cloud
+- 🛡️ GPL v3 — código auditable
+
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=orange)
+![Security](https://img.shields.io/badge/Security-ChaCha20-FFD700?style=flat-square)
 
 </td>
+</tr>
+</td>
 <td width="50%">
+
 
 ### 🔧 Próximamente...
 
